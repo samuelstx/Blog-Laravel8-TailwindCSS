@@ -1,7 +1,9 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 <p align="center"><a href="https://github.com/samuelstx" target="_blank"><img src="https://i.ibb.co/rtmCrSF/Samuel-Soto-Blanca.png" alt="Samuel Soto"></a></p>
 
-##Littel Laravel Blog
+
+Littel Laravel Blog
+
 Es un pequeño proyecto desarrollado para practicar las habilidades de Laravel y Php
 
 Para hacerlo un poco más complicado se ha usado TailwindCSS en lugar de Bootstrap
